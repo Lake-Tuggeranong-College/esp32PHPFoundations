@@ -13,7 +13,7 @@ const char* host = "RMS";
 const char* ssid = "RoboRange";       // Wifi Network Name
 const char* password = "Password01";  // Wifi Password
 
-String serverName = "http://192.168.1.18/dataTransfer.php";
+String serverURL = "http://192.168.1.18/dataTransfer.php";
 
 String apiKeyValue = "XjuTHh";
 
