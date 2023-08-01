@@ -1,6 +1,5 @@
 #include <Arduino.h>
-#include "SharedFunctionality.h"
-#include "sensitivieInformation.h"
+#include "sensitiveInformation.h"
 
 void setup() {
   // put your setup code here, to run once:
